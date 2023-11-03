@@ -1,0 +1,10 @@
+import React from "react";
+import { View, Text, StyleSheet } from "react-native";
+
+const Placeholder = () => {
+  return <Text>Placeholder text</Text>;
+};
+
+const styles = StyleSheet.create({});
+
+export default Placeholder;
